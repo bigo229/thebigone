@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<builds>
+    <build>
+        <name>Alpha Build</name>
+        <version>1.0.0</version>
+        <url>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/builds/alpha_build_v1.zip</url>
+        <icon>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/plugin.video.myaddon/icon.png</icon>
+        <fanart>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/artwork/build_bg.jpg</fanart>
+        <preview>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/artwork/build_bg.jpg</preview>
+        <description>[COLOR cyan]Alpha Build v1.0.0[/COLOR] - Polished light theme interface layout featuring pre-optimized video configurations, active cache adjustments, and pre-packaged open source plugins.</description>
+        <kodi>19.0|20.0|21.0</kodi>
+    </build>
+</builds>
