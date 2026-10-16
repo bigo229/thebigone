@@ -1,0 +1,111 @@
+{
+    "favourites.xml": {
+        "name": "Favourites",
+        "setting": "savefavs",
+        "path": "user_path"
+    },
+    "advancedsettings.xml": {
+        "name": "Advanced Settings",
+        "setting": "saveadvanced",
+        "path": "user_path"
+    },
+    "sources.xml": {
+        "name": "Sources",
+        "setting": "savesources",
+        "path": "user_path"
+    },
+    "guisettings.xml": {
+        "name": "Gui Settings",
+        "setting": "savegui",
+        "path": "user_path"
+    },
+    "plugin.video.seren": {
+        "name": "Seren",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+    "plugin.video.fen": {
+        "name": "Fen",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+    "plugin.video.fenlight": {
+        "name": "Fen Light",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+    "plugin.video.redlight": {
+        "name": "Red Light",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+    "plugin.video.thechains": {
+        "name": "The Chains",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+    "plugin.video.gears": {
+        "name": "The Gears",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+    "plugin.video.pov": {
+        "name": "POV",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+    "plugin.video.umbrella": {
+        "name": "Umbrella",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+    "plugin.video.shadow": {
+        "name": "Shadow",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+    "plugin.video.ghost": {
+        "name": "Ghost",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+    "plugin.video.premiumizerx": {
+        "name": "PremiumizerX",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+    "plugin.video.realizerx": {
+        "name": "RealizerX",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+    "script.module.resolveurl": {
+        "name": "ResolveURL",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+
+
+    "script.trakt": {
+        "name": "Trakt",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+    "plugin.video.themoviedb.helper": {
+        "name": "TMDB Helper",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+
+
+    "plugin.video.imdb.trailers": {
+        "name": "IMDb Trailers",
+        "setting": "savedata",
+        "path": "data_path"
+    },
+    "plugin.video.youtube": {
+        "name": "YouTube",
+        "setting": "saveyoutube",
+        "path": "data_path"
+    }
+}
