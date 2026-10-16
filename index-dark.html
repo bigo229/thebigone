@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Kodi Repository</title>
+    <style>
+        :root {
+            --bg-color: #141a29;
+            --card-color: #1f293d;
+            --text-color: #f3f4f6;
+            --accent-color: #00bcd4;
+            --accent-hover: #00e5ff;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            background-color: var(--card-color);
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+            max-width: 600px;
+            width: 100%;
+            text-align: center;
+        }
+        h1 {
+            color: var(--accent-color);
+            margin-bottom: 10px;
+        }
+        .url-box {
+            background-color: rgba(0, 0, 0, 0.2);
+            padding: 12px;
+            border-radius: 6px;
+            border: 1px dashed var(--accent-color);
+            font-family: monospace;
+            font-size: 1.1em;
+            margin: 20px 0;
+            word-break: break-all;
+        }
+        ol {
+            text-align: left;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 12px;
+        }
+        .btn {
+            display: inline-block;
+            background-color: var(--accent-color);
+            color: #141a29;
+            padding: 12px 24px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 6px;
+            margin-top: 15px;
+            transition: background 0.2s ease;
+        }
+        .btn:hover {
+            background-color: var(--accent-hover);
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 0.85em;
+            color: #9ca3af;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>My Kodi Repository</h1>
+    <p>Welcome to my official Kodi Add-on repository.</p>
+    
+    <!-- ⚠️ Direct Zip Download Link for Browser / Kodi File Manager -->
+    <a href="repository.myaddon-1.0.0.zip" class="btn">Download Repository Zip</a>
+
+    <hr style="border: 0; border-top: 1px solid #374151; margin: 30px 0;">
+
+    <h3>How to Install via Kodi File Manager</h3>
+    <p>To add this repository directly inside Kodi, use the following URL source:</p>
+    
+    <div class="url-box" id="repo-url">
+        https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/
+    </div>
+
+    <ol>
+        <li>Open <strong>Kodi</strong> and go to <strong>Settings</strong> (the gear icon).</li>
+        <li>Select <strong>File Manager</strong> &rarr; <strong>Add Source</strong>.</li>
+        <li>Double-click <strong>&lt;None&gt;</strong> and enter the URL exactly as shown above.</li>
+        <li>Name the source (e.g., <code>.myrepo</code>) and click <strong>OK</strong>.</li>
+        <li>Go back to the Kodi home screen and select <strong>Add-ons</strong>.</li>
+        <li>Click the <strong>Add-on Browser</strong> (open box icon) in the top left.</li>
+        <li>Select <strong>Install from zip file</strong> (Enable Unknown Sources if prompted).</li>
+        <li>Select the source you named, then click the <code>.zip</code> file to install.</li>
+        <li>Once installed, select <strong>Install from repository</strong> to view available add-ons!</li>
+    </ol>
+
+    <div class="footer">
+        Hosted with ❤️ on <a href="https://github.com" style="color: var(--accent-color); text-decoration: none;">GitHub Pages</a>
+    </div>
+</div>
+
+<script>
+    // Automatically sets the text box text to the current website URL
+    document.getElementById('repo-url').innerText = window.location.href;
+</script>
+
+</body>
+</html>
