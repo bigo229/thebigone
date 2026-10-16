@@ -1,0 +1,3 @@
+v1.0.0 (2026-10-16)
+ - The BigOneWizard has a new home! Go to https://bigo229.github.io/thebigone/index2.html
+ - Initial version for Kodi 21 Omega
