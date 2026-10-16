@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="repository.thebigone" name="[COLOR red][B]TheBigOne:[/B][/COLOR] [COLOR snow][B]Repository[/B][/COLOR]" provider-name="TheBigOne" version="1.0.0">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+    </requires>
+    <extension point="xbmc.addon.repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/bigo229/thebigone/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/bigo229/thebigone/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/bigo229/thebigone/master/repo/zips</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>TheBigOne Official Repository</summary>
+        <description>Repo from the TheBigOne Team for you.</description>
+        <disclaimer>The author of this add-on does not host any content and has no affiliation with the content providers</disclaimer>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE Version 3</license>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon></addons>
