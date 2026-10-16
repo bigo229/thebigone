@@ -8,6 +8,6 @@
         <fanart>https://raw.githubusercontent.com/bigo229/thebigone/master/Images/fanart.jpg</fanart>
         <preview>https://raw.githubusercontent.com/bigo229/thebigone/master/Images/fanart.jpg</preview>
         <description>[COLOR cyan]Alpha Build v1.0.0[/COLOR] - Polished light theme interface layout featuring pre-optimized video configurations, active cache adjustments, and pre-packaged open source plugins.</description>
-        <kodi>19.0|20.0|21.0</kodi>
+        <kodi>21.1</kodi>
     </build>
 </builds>
