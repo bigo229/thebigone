@@ -1,0 +1,13 @@
+name="Example"
+section="no"
+url="https://"
+icon="http://"
+fanart="http://"
+description="An example video."
+
+name="Example Section"
+section="yes"
+url="url.to.textfile"
+icon="http://"
+fanart="http://"
+description="An example section."
