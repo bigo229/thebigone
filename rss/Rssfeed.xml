@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>My Custom Kodi Repository News &amp; Builds</title>
+        <link>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/</link>
+        <description>Official updates, feature layouts, and direct installation announcements.</description>
+        <language>en-gb</language>
+
+        <!-- Item 1: Announcement pointing directly to your new build deployment -->
+        <item>
+            <title>[COLOR cyan]NEW BUILD RELEASE:[/COLOR] Alpha Build v1.0.0 is Live!</title>
+            <link>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/builds/alpha_build_v1.zip</link>
+            <description>Experience a minimalist user interface overhaul. Featuring high-performance video streaming configs, integrated caching parameters, and custom backgrounds.</description>
+            <category>Builds</category>
+        </item>
+
+        <!-- Item 2: Standard Maintenance / Server Status Update Bulletin -->
+        <item>
+            <title>System Notice: Repository indexing migrated safely to GitHub Pages</title>
+            <link>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/</link>
+            <description>All repositories, download links, zip endpoints, and addon modules are officially online and responsive.</description>
+            <category>General</category>
+        </item>
+    </channel>
+</rss>
