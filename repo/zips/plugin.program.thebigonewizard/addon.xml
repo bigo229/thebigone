@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.thebigonewizard" name="[COLOR lime]TheBigOne[/COLOR] [COLOR white]Wizard[/COLOR]" version="1.0.1" provider-name="TheBigOne">
+    <requires>
+        <!-- Forces Kodi 21.1 Python 3 Compatibility -->
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">[COLOR white]TheBigOne Builds[/COLOR]</summary>
+        <description>Build management and maintenance tools.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
