@@ -1,6 +1,10 @@
-[COLOR red][B]TheBigOne Wizard Notice[/B][/COLOR]
-[COLOR snow]Welcome to the official build deployment server. Ensure you are running Kodi 21.1 Omega for maximum stability.
+1
+|||
+[COLOR lime][B]TheBigOne Wizard Notice[/B][/COLOR]
+
+[COLOR snow]Welcome to the official build deployment server.
 
 Current Updates:
 - Initial repository framework online
-- Python 3 dependency architecture deployed safely[/COLOR]
+- Python 3 dependency architecture deployed safely
+- Ensure you are running Kodi 21.1 Omega for maximum stability.[/COLOR]
