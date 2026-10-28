@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss version="2.0">
     <channel>
-        <title>My Custom Kodi Repository News &amp; Builds</title>
-        <link>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/</link>
-        <description>Official updates, feature layouts, and direct installation announcements.</description>
-        <language>en-gb</language>
-
-        <!-- Item 1: Announcement pointing directly to your new build deployment -->
+        <title>THE BIG ONE OMEGA BUILD FEED</title>
         <item>
+            <title>[COLOR orange][B]WELCOME TO THE BIG ONE OMEGA BUILD![/B][/COLOR] -- Pre-optimized layout profiles, custom asset libraries, and active caching adjustments are now fully initialized. Enjoy your streaming setup!</title>
+        </item>
+        <item>
+            <title>[COLOR lime][B]SYSTEM NOTICE:[/B][/COLOR] Always ensure you are running Kodi 21.1 Omega for maximum stability. Keep your themes clean, clear your cache weekly, and check back here for live version announcements!</title>
+        </item>
+        <item>
+            <title>[COLOR cyan][B]STAY UPDATED:[/B][/COLOR] Initial repository configuration is safely live.</title>
+        </item>
+<item>
             <title>[COLOR cyan]NEW BUILD RELEASE:[/COLOR] Alpha Build v1.0.0 is Live!</title>
-            <link>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/builds/alpha_build_v1.zip</link>
+            <link>https://bigo229.github.io/thebigone/</link>
             <description>Experience a minimalist user interface overhaul. Featuring high-performance video streaming configs, integrated caching parameters, and custom backgrounds.</description>
             <category>Builds</category>
         </item>
-
-        <!-- Item 2: Standard Maintenance / Server Status Update Bulletin -->
-        <item>
+<item>
             <title>System Notice: Repository indexing migrated safely to GitHub Pages</title>
-            <link>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/</link>
-            <description>All repositories, download links, zip endpoints, and addon modules are officially online and responsive.</description>
+            <link>https://bigo229.github.io/thebigone/</link>
+            <description>All repositories, download links, and addon modules are officially online and responsive.</description>
             <category>General</category>
         </item>
     </channel>
 </rss>
+
+   
