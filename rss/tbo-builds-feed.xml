@@ -6,13 +6,13 @@
     <title><![CDATA[[COLOR ff00ffff]WELCOME TO THE BIG ONE OMEGA BUILD![/COLOR] -- Pre-optimized layout profiles, custom asset libraries, and active caching adjustments are now fully initialized. Enjoy your streaming setup!]]></title>
      </item>
      <item>
-            <title>[COLOR ff00ff00][B]SYSTEM NOTICE:[/B][/COLOR] Always ensure you are running Kodi 21.1 Omega for maximum stability. Keep your themes clean, clear your cache weekly, and check back here for live version announcements!</title>
+            <title><![CDATA[[COLOR ff00ff00][B]SYSTEM NOTICE:[/B][/COLOR] Always ensure you are running Kodi 21.1 Omega for maximum stability. Keep your themes clean, clear your cache weekly, and check back here for live version announcements!]]></title>
         </item>
         <item>
-            <title>[COLOR ff0000ff][B]STAY UPDATED:[/B][/COLOR] Initial repository configuration is safely live.</title>
+            <title><![CDATA[[COLOR ff0088ff][B]STAY UPDATED:[/B][/COLOR] Initial repository configuration is safely live.]]></title>
         </item>
-<item>
-            <title>[COLOR ffffa500]NEW BUILD RELEASE:[/COLOR] Alpha Omega v1.0.0 is Live!</title>
+        <item>
+            <title><![CDATA[[COLOR ffffa500]NEW BUILD RELEASE:[/COLOR] Alpha Omega v1.0.0 is Live!]]></title>
             <link>https://bigo229.github.io/thebigone/</link>
             <description>Experience a minimalist user interface overhaul. Featuring high-performance video streaming configs, integrated caching parameters, and custom backgrounds.</description>
             <category>Builds</category>
