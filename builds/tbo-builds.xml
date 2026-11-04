@@ -15,13 +15,13 @@
     <build>
         <name>[COLOR orange]***THE BIG ONE ZENITH BUILD***[/COLOR]</name>
         <version>1.0</version>
-        <url>https://dl.dropboxusercontent.com/scl/fi/gvmho47eo1j36drqrvcu9/zenith-tbo-v1.0.zip?rlkey=79o552gyhv0tog8wiy4ltvo8p&st=f8y72jvy&amp;dl=1</url>
+        <url>https://dl.dropboxusercontent.com/scl/fi/m2b77w83x4gkxcbyw8m7b/zenith-TBO-v1.0.zip?rlkey=h6pfmwhzkz5vl7jg3bkzad47m&st=8ph6jcdu&amp;dl=1</url>
         <icon>https://i.postimg.cc/LqY04Nyc/icon.png</icon>
         <img_src>https://i.postimg.cc/LqY04Nyc/icon.png</img_src>
         <image>https://i.postimg.cc/LqY04Nyc/icon.png</image>
         <preview>https://i.postimg.cc/LqY04Nyc/icon.png</preview>
         <fanart>https://i.postimg.cc/McMrZdsN/fanart.jpg</fanart>
-        <description>[COLOR cyan]Zenith Build v1.0[/COLOR] - Zenith — The Ultimate Free & Non-Debrid Kodi OMEGA Build with Dynamic Multi-Image Backgrounds,Smart Widgets,Movie Hub,TV-Show Tracker & Weather Tracker & Adult Addons & Xmas Images(disabled).Configured exclusively with scrapers and add-ons optimized for high-quality, reliable, public-domain, and free-to-stream web links. - [COLOR red]Enable an item[/COLOR]To enable Adult or Xmas, From the main home screen click SYSTEM -->> SKIN SETTINGS -->> Main Menus -->> Setup Aeon Nox Main Menu -->> scroll down to the item with an X next to its Name ADULT or XMAS, click click up to enable, the item is then enabled.</description>
+        <description>[COLOR cyan]Zenith Build v1.0[/COLOR] - Zenith — The Ultimate Free & Non-Debrid Kodi OMEGA Build with Multi-Image Backgrounds,Smart Widgets,Weather & Adult Addons & Xmas Images(disabled).Configured exclusively with scrapers and add-ons optimized for high-quality, and free-to-stream web links. - [COLOR red]Enable an item[/COLOR]To enable Adult or Xmas, From the main home screen click SYSTEM -->> SKIN SETTINGS -->> Main Menus -->> Setup Aeon Nox Main Menu -->> scroll down to the item with an X next to its Name ADULT or XMAS, click click up to enable, the item is then enabled.</description>
         <kodi>21.1</kodi>
     </build>
 </builds>
