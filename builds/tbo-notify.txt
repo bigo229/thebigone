@@ -1,10 +1,12 @@
-1
+2
 |||
 [COLOR lime][B]TheBigOne Wizard Notice[/B][/COLOR]
 
-[COLOR snow]Welcome to the official build deployment server.
+[COLOR blue][B]Welcome to the official home of TheBigOne Builds.[/B][/COLOR]
 
-Current Updates:
+[COLOR gold]Go to[/COLOR] [COLOR khaki]https://bigo229.github.io/thebigone/repo/[/COLOR] [COLOR gold]for[/COLOR] [COLOR orange]The BigOne[/COLOR] [COLOR gold]builds, add-ons and forks of Kodi 21.3 Omega.[/COLOR]
+
+[COLOR khaki]Current Updates:
 - Initial repository framework online
 - Python 3 dependency architecture deployed safely
 - Ensure you are running Kodi 21.1 Omega for maximum stability.[/COLOR]
