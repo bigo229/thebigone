@@ -2,7 +2,7 @@
 <builds>
       <!-- 🛠️ TOP VISUAL DIVIDER ROW (Expanded to reach the end of the text) -->
     <build>
-        <name>[COLOR red]---------------------------------------------------------------------------------[/COLOR]</name>
+        <name>[COLOR red]---------------------------------------------------------------------------------------------[/COLOR]</name>
         <version>-</version>
         <url>http://yourhosting.com</url>
     </build>
