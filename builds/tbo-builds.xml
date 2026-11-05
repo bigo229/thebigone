@@ -27,14 +27,7 @@
         <version> </version>
         <url>http://yourhosting.com</url>
     </build>
-
-    <!-- THE ACTUAL REAL BUILD ENTRY -->
-    <build>
-        <name>[COLOR yellow]Install Your Real Build Name[/COLOR]</name>
-        <version>1.0.8</version>
-        <url>http://yourhosting.com</url>
-        <description>Your standard build description goes here.</description>
-    </build>
+ 
       <build>
         <name>[COLOR orange]***THE BIG ONE LIGHT BUILD***[/COLOR]</name>
         <version>1.0</version>
