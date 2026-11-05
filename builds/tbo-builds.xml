@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <builds>
-    <!-- THE NOTICE ENTRY -->
+            <!-- THE NOTICE ENTRY -->
     <build>
         <name>[COLOR red]👉 READ ME: Enable Adult/Xmas Menus[/COLOR]</name>
         <version>1.0.0</version>
-        <url>NOTICE_ONLY</url>
+        <url>http://yourhosting.com</url>
         <description>1. Go to SYSTEM -> SKIN SETTINGS -> Main Menus.
         2. Choose Setup Aeon Nox Main Menu.
         3. Scroll down until you see ADULT or XMAS (with an X).
         4. Click Enable.</description>
+    </build>
+    <!-- ALTERNATIVE NOTICE ENTRY -->
+    <build>
+        <name>[COLOR red]👉 READ ME: Enable Adult/Xmas Menus[/COLOR]
+        1. Go to SYSTEM -> SKIN SETTINGS -> Main Menus.
+        2. Choose Setup Aeon Nox Main Menu.
+        3. Scroll down to ADULT or XMAS and click Enable.</name>
+        <version>1.0.0</version>
+        <url>http://yourhosting.com</url>
     </build>
     <build>
         <name>[COLOR orange]***THE BIG ONE LIGHT BUILD***[/COLOR]</name>
