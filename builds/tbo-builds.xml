@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <builds>
- <build>
-        <name>[COLOR red]Your Real Build Name Here[/COLOR]     
-     [COLOR yellow]• Step 1: Go to SYSTEM -> SKIN SETTINGS -> Main Menus.[/COLOR]
-     [COLOR yellow]• Step 2: Choose Setup Aeon Nox Main Menu.[/COLOR]
-     [COLOR yellow]• Step 3: Scroll down until you see ADULT or XMAS.[/COLOR]
-     [COLOR yellow]• Step 4: Click Enable.[/COLOR]</name>
-        <version>1.0.7</version>
+   <!-- THE INSTRUCTION ROW (Points to your real build zip to pass validation) -->
+    <build>
+        <name>[COLOR red]👉 ENABLE MENUS: Click here to read how[/COLOR]</name>
+        <version>GUIDE</version>
         <url>http://yourhosting.com</url>
-        <description>Your standard single-line build description goes here.</description>
     </build>
       <build>
         <name>[COLOR orange]***THE BIG ONE LIGHT BUILD***[/COLOR]</name>
