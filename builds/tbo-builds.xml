@@ -8,7 +8,7 @@
     </build>
     <!-- LINE 2 -->
     <build>
-        <name>1. Go to SYSTEM -> SKIN SETTINGS -> Main Menus.</name>
+        <name>1. Go to SYSTEM -->> SKIN SETTINGS -->> Main Menus.</name>
         <version>2</version>
         <url>http://yourhosting.com</url>
     </build>
