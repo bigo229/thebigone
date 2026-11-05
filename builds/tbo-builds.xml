@@ -25,6 +25,7 @@
         <preview>https://i.postimg.cc/LqY04Nyc/icon.png</preview>
         <fanart>https://i.postimg.cc/McMrZdsN/fanart.jpg</fanart>
         <description>[COLOR cyan]Zenith Build 18+ v1.0[/COLOR] - The Zenith 18+ Omega build is a Free & Non-Debrid OMEGA Build that includes widgets, weather updates, and optional adult or Christmas categories. It is configured to give you high-quality links without needing a paid Debrid subscription.</description>
+        <notification><![CDATA[[COLOR red]How to Enable Adult or Christmas Menus[/COLOR]\n\n1. Go to the main home screen and click SYSTEM.\n2. Select SKIN SETTINGS, then go to Main Menus.\n3. Choose Setup Aeon Nox Main Menu.\n4. Scroll down until you see ADULT or XMAS.\n5. Click on Enable and enable the menu.]]></notification>
         <kodi>21.1</kodi>
     </build>
     <build>
