@@ -1,33 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <builds>
-  <!-- THE DETAILED INSTRUCTIONS (Split across individual lines using unique URL args) -->
+  
+        <!-- LINE 1 -->
+    <build>
+        <name>[COLOR red]👉 HOW TO ENABLE ADULT/XMAS MENUS:[/COLOR]</name>
+        <version>1</version>
+        <url>http://yourhosting.com</url>
+    </build>
+
+    <!-- LINE 2 -->
     <build>
         <name>1. Go to SYSTEM -> SKIN SETTINGS -> Main Menus.</name>
-        <version> </version>
+        <version>2</version>
         <url>http://yourhosting.com</url>
     </build>
 
     <!-- LINE 3 -->
     <build>
         <name>2. Choose Setup Aeon Nox Main Menu.</name>
-        <version> </version>
+        <version>3</version>
         <url>http://yourhosting.com</url>
     </build>
 
     <!-- LINE 4 -->
     <build>
         <name>3. Scroll down until you see ADULT or XMAS (with an X).</name>
-        <version> </version>
+        <version>4</version>
         <url>http://yourhosting.com</url>
     </build>
 
     <!-- LINE 5 -->
     <build>
         <name>4. Click Enable.</name>
-        <version> </version>
+        <version>5</version>
         <url>http://yourhosting.com</url>
     </build>
- 
       <build>
         <name>[COLOR orange]***THE BIG ONE LIGHT BUILD***[/COLOR]</name>
         <version>1.0</version>
