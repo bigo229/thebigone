@@ -1,5 +1,6 @@
 1.0.0 - Initial Build setup and glitch fixes. Basic clean up. Ready for official release.
       - Changes made to new builds to increase performance & stability.
+      - We now have 3 new builds, THE BIG ONE LIGHT BUILD,THE BIG ONE ZENITH BUILD & THE BIG ONE ZENITH 18+ BUILD.
 0.0.4 - Added enabling of disabled addons on build first run. Added update repos on build first run. 
 0.0.3 - Added prompt notifying when new version of installed build is available.
 0.0.2 - Initial Release
