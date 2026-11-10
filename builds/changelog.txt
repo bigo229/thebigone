@@ -1,4 +1,4 @@
-1.0.0 - Basic clean up. Ready for official release.
+1.0.0 - Initial Build setup and glitch fixes. Basic clean up. Ready for official release.
 0.0.4 - Added enabling of disabled addons on build first run. Added update repos on build first run. 
 0.0.3 - Added prompt notifying when new version of installed build is available.
 0.0.2 - Initial Release
