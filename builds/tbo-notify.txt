@@ -4,6 +4,10 @@
 
 [COLOR blue][B]Welcome to the official home of TheBigOne Builds.[/B][/COLOR]
 
+[COLOR blue][B]Welcome to the official home of TheBigOne Builds.[/B][/COLOR]
+
+[COLOR orange][B]DOWNLOAD OUR REPO:[/B][/COLOR][COLOR blue] Our repo is available at https://bigo229.github.io/thebigone/repo.[/B][/COLOR]
+
 [COLOR gold]Go to[/COLOR] [COLOR khaki]https://bigo229.github.io/thebigone/repo/[/COLOR] [COLOR gold]for[/COLOR] [COLOR orange]The BigOne[/COLOR] [COLOR gold]builds, add-ons and forks of Kodi 21.1 Omega.[/COLOR]
 
 [COLOR yellow]- We now have 3 new builds, THE BIG ONE LIGHT BUILD,THE BIG ONE ZENITH BUILD & THE BIG ONE ZENITH 18+ BUILD.[/COLOR]
