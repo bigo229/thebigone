@@ -43,6 +43,11 @@
         <url>http://yourhosting.com</url>
     </build>
       <build>
+        <name>[COLOR gold]PS: These instructions only apply to THE BIG ONE LIGHT & ZENITH BUILDS[/COLOR]</name>
+        <version>-</version>
+        <url>http://yourhosting.com</url>
+    </build>
+      <build>
         <name>[COLOR orange]***THE BIG ONE LIGHT BUILD***[/COLOR]</name>
         <version>1.0</version>
         <url>https://dl.dropboxusercontent.com/scl/fi/qoflcqfxu2a90jkq6e52g/TBO-alpha-build-v1.0.0.zip?rlkey=jy2u5g5s2euxl18p3bwfhl1e9&amp;dl=1</url>
