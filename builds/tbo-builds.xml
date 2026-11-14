@@ -83,4 +83,16 @@
         <description>[COLOR cyan]Zenith Build v1.0[/COLOR] - The Zenith Omega build is a Free & Non-Debrid OMEGA Build that includes widgets, weather updates, and optional Christmas categories. It is configured to give you high-quality links without needing a paid Debrid subscription.</description>
         <kodi>21.1</kodi> 
     </build>
+    <build>
+        <name>[COLOR orange]***THE BIG ONE VERTEX 18+ BUILD***[/COLOR]</name>
+        <version>1.0</version>
+        <url>https://dl.dropboxusercontent.com/scl/fi/0csn49rcctf6mxmg00rav/VERTEX-TBO-18-v1.0.zip?rlkey=vswkgbwz4eno8i6s9mcf10q4l&st=kd3ck9ig&amp;dl=1</url>
+        <icon>https://i.postimg.cc/LqY04Nyc/icon.png</icon>
+        <img_src>https://i.postimg.cc/LqY04Nyc/icon.png</img_src>
+        <image>https://i.postimg.cc/LqY04Nyc/icon.png</image>
+        <preview>https://i.postimg.cc/LqY04Nyc/icon.png</preview>
+        <fanart>https://i.postimg.cc/McMrZdsN/fanart.jpg</fanart>
+        <description>[COLOR cyan]Vertex 18+ Build v1.0[/COLOR] - Vertex 18+ — The Ultimate Free & Non-Debrid Kodi OMEGA Build with Dynamic Multi-Image Backgrounds,Smart Widgets,Movie Hub,TV-Show Tracker & Weather Tracker & Music addons & also Adult Addons & Xmas Images.Configured exclusively with scrapers and add-ons optimized for high-quality, reliable, public-domain, and free-to-stream web links.</description>
+        <kodi>21.1</kodi>
+   </build>
 </builds>
