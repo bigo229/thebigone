@@ -48,6 +48,11 @@
         <url>http://yourhosting.com</url>
     </build>
       <build>
+        <name>[COLOR red]----------------------------------------------------------------------------------------- [/COLOR]</name>
+        <version>-</version>
+        <url>http://yourhosting.com</url>
+    </build>
+      <build>
         <name>[COLOR orange]***THE BIG ONE LIGHT BUILD***[/COLOR]</name>
         <version>1.0</version>
         <url>https://dl.dropboxusercontent.com/scl/fi/qoflcqfxu2a90jkq6e52g/TBO-alpha-build-v1.0.0.zip?rlkey=jy2u5g5s2euxl18p3bwfhl1e9&amp;dl=1</url>
@@ -86,13 +91,13 @@
     <build>
         <name>[COLOR orange]***THE BIG ONE VERTEX 18+ BUILD***[/COLOR]</name>
         <version>1.0</version>
-        <url>https://dl.dropboxusercontent.com/scl/fi/0csn49rcctf6mxmg00rav/VERTEX-TBO-18-v1.0.zip?rlkey=vswkgbwz4eno8i6s9mcf10q4l&st=kd3ck9ig&amp;dl=1</url>
+        <url>https://dl.dropboxusercontent.com/scl/fi/40in67crowncgpkod87v9/VERTEX-TBO-18-v1.0.zip?rlkey=p6jaxm3qppu3qdotrrru0rifw&st=ccduthsl&amp;dl=1</url>
         <icon>https://i.postimg.cc/LqY04Nyc/icon.png</icon>
         <img_src>https://i.postimg.cc/LqY04Nyc/icon.png</img_src>
         <image>https://i.postimg.cc/LqY04Nyc/icon.png</image>
         <preview>https://i.postimg.cc/LqY04Nyc/icon.png</preview>
         <fanart>https://i.postimg.cc/McMrZdsN/fanart.jpg</fanart>
-        <description>[COLOR cyan]Vertex 18+ Build v1.0[/COLOR] - Vertex 18+ — The Ultimate Free & Non-Debrid Kodi OMEGA Build with Modern Tiled Skin and Dynamic Multi-Image Backgrounds,Smart Widgets,Movie Hub,TV-Show Tracker & Weather Tracker & Music & also Adult Addons & Xmas Images.Configured exclusively with scrapers and add-ons optimized for high-quality, reliable, public-domain, and free-to-stream web links.</description>
+        <description>[COLOR cyan]Vertex 18+ Build v1.0[/COLOR] - Vertex 18+ — The Ultimate Free & Non-Debrid Kodi OMEGA Build with Modern Tiled Skin and Dynamic Multi-Image Backgrounds,Smart Widgets,Movies,TV-Shows,& Weather,Music & also Adult Addons & Xmas Content.Configured exclusively optimized for high-quality, reliable, free-to-stream web links.</description>
         <kodi>21.1</kodi>
    </build>
 </builds>
