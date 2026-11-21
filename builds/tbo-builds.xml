@@ -89,6 +89,18 @@
         <kodi>21.1</kodi> 
     </build>
     <build>
+        <name>[COLOR orange]***THE BIG ONE ZENITH PRO BUILD***[/COLOR]</name>
+        <version>1.0</version>
+        <url>https://dl.dropboxusercontent.com/scl/fi/vgbk7p44hw17z9lfme3iy/ZENITH-TBO-PRO-V1.0.zip?rlkey=vf8ab820cjjli6louln682ahe&st=eakd453w&amp;dl=1</url>
+        <icon>https://i.postimg.cc/LqY04Nyc/icon.png</icon>
+        <img_src>https://i.postimg.cc/LqY04Nyc/icon.png</img_src>
+        <image>https://i.postimg.cc/LqY04Nyc/icon.png</image>
+        <preview>https://i.postimg.cc/LqY04Nyc/icon.png</preview>
+        <fanart>https://i.postimg.cc/McMrZdsN/fanart.jpg</fanart>
+        <description>[COLOR cyan]ZENITH PRO v1.0[/COLOR] - ZENITH PRO — The Ultimate Free & Full-Featured Non-Debrid Kodi Build that includes Widgets,Weather,Music,Movies,TV-Shows,Live-TV,also Adult Addons & Xmas Content[COLOR red](if enabled)[/COLOR].Exclusively optimized for high-quality, reliable, free-to-stream web links.</description>
+        <kodi>21.1</kodi>
+   </build> 
+    <build>
         <name>[COLOR orange]***THE BIG ONE VERTEX 18+ BUILD***[/COLOR]</name>
         <version>1.0</version>
         <url>https://dl.dropboxusercontent.com/scl/fi/40in67crowncgpkod87v9/VERTEX-TBO-18-v1.0.zip?rlkey=p6jaxm3qppu3qdotrrru0rifw&st=ccduthsl&amp;dl=1</url>
@@ -100,7 +112,7 @@
         <description>[COLOR cyan]Vertex 18+ v1.0[/COLOR] - Vertex 18+ — The Ultimate Free & Non-Debrid Kodi OMEGA Build with Modern Tiled Skin and Dynamic Multi-Image Backgrounds,Smart Widgets,Movies,TV-Shows,& Weather,Music & also Adult Addons & Xmas Content.Configured exclusively optimized for high-quality, reliable, free-to-stream web links.</description>
         <kodi>21.1</kodi>
    </build>
-      <build>
+    <build>
         <name>[COLOR orange]***THE BIG ONE ARGON BUILD***[/COLOR]</name>
         <version>1.0</version>
         <url>https://dl.dropboxusercontent.com/scl/fi/bw4stybpnom06cik630z0/Argon-TBO-v1.0.zip?rlkey=4o0orsdyv6mfa28eknjmz2km4&st=7inunx6f&amp;dl=1</url>
