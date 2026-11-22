@@ -14,6 +14,7 @@
               - Also now THEBIGONE ZENITH PRO, THEBIGONE VERTEX 18+ & THEBIGONE ARGON.BUILD.[/COLOR]
 
 [COLOR khaki]Current Updates:
+- New builds added, 6 new builds now available.
 - Changes made to new builds to increase performance & stability.
 - Initial repository framework online
 - Ensure you are running Kodi 21.1 Omega for maximum stability.[/COLOR]
