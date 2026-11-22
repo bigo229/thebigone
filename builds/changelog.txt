@@ -1,4 +1,4 @@
-1.0.1 - We now have 6 new builds, THEBIGONE LIGHT BUILD,THEBIGONE ZENITH BUILD & THEBIGONE ZENITH 18+ BUILD,                - THEBIGONE ZENITH PRO, THEBIGONE VERTEX 18+ & THEBIGONE ARGON.
+1.0.1 - We now have 6 new builds, THEBIGONE LIGHT BUILD, THEBIGONE ZENITH BUILD & THEBIGONE ZENITH 18+ BUILD,               - THEBIGONE ZENITH PRO, THEBIGONE VERTEX 18+ & THEBIGONE ARGON.
 1.0.0 - Initial Build setup and glitch fixes. Basic clean up. Ready for official release.
       - Changes made to new builds to increase performance & stability.
       - We now have 3 new builds, THE BIG ONE LIGHT BUILD,THE BIG ONE ZENITH BUILD & THE BIG ONE ZENITH 18+ BUILD.
